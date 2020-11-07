@@ -15,3 +15,4 @@
 ## 화면
 ### 메인
 ![메인 화면](https://user-images.githubusercontent.com/58472980/98431909-f2a9e500-20fc-11eb-9261-2772b5aa839b.PNG)
+![예약 현황](https://user-images.githubusercontent.com/58472980/98432109-6f898e80-20fe-11eb-87de-bd173173022c.png)
