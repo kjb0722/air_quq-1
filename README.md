@@ -9,7 +9,7 @@
 ## 사용 기술
 * Maria DB 10.3.21
 * HTML, CSS, JavaScript(jQuery, Ajax), BootStrap
-* Java, Spring, Node.js
+* Java 8, Spring 3, Node.js
 ## 데이터베이스 다이어그램
 ![ERD](https://user-images.githubusercontent.com/58472980/98431878-b1b1d080-20fc-11eb-82fe-4b3b8dc95f10.jpg)
 ## 화면
